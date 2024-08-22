@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 25,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "Raleway",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontWeight": "bold",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.fontLigatures": false,
+    "workbench.startupEditor": "none",
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotVerifyTags": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls; python -u",
+
+    }
+}
